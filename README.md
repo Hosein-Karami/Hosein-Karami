@@ -26,7 +26,12 @@
   </a>
   </a>      
    <a href="https://www.keycloak.org">
-         <img alt="Postman" src="https://design.jboss.org/keycloak/logo/images/keycloak_icon_64px.svg"
+         <img alt="Keycloak" src="https://design.jboss.org/keycloak/logo/images/keycloak_icon_64px.svg"
          width=45" height="45">
+  </a>
   </a>      
+  <a href="https://www.postman.com/">
+         <img alt="Postman" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg"
+         width=45" height="45">
+  </a>                                  
 </div>
