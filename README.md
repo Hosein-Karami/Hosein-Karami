@@ -17,7 +17,7 @@
          width=45" height="45">
   </a>
   <a href="https://git-scm.com">
-         <img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
-         width=75" height="75">
+         <img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
+         width=45" height="45">
   </a>      
 </div>
