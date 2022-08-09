@@ -25,8 +25,8 @@
          width=45" height="45">
   </a>
   </a>      
-   <a href="https://www.postman.com">
-         <img alt="Postman" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg"
+   <a href="https://www.keycloak.org">
+         <img alt="Postman" src="https://design.jboss.org/keycloak/logo/images/keycloak_icon_64px.svg"
          width=45" height="45">
   </a>      
 </div>
