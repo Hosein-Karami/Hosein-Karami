@@ -16,8 +16,8 @@
          <img alt="MySql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
          width=45" height="45">
   </a>
-   <a href="https://git-scm.com">
+  <a href="https://git-scm.com">
          <img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
-         width=65" height="65">
+         width=75" height="75">
   </a>      
 </div>
