@@ -4,6 +4,10 @@
          <img alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
          width=45" height="45">
   </a>
+  <a href="https://www.php.net">
+         <img alt="Php" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
+         width=45" height="45">
+  </a>                            
   <a href="https://www.oracle.com/java">
          <img alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"
          width=45" height="45">
