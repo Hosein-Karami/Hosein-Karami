@@ -40,6 +40,5 @@
   </a>                                  
 </div>
 <br><br>
-<a href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosein-Karami)](https://github.com/anuraghazra/github-readme-stats)
-"></a>   
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=Hosein-Karami"></a>   
 
