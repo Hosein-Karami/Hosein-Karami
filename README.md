@@ -40,5 +40,6 @@
   </a>                                  
 </div>
 <br><br>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=Hosein-Karami"></a>   
+<a href="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hosein-Karami&theme=dark&background=000000)](https://git.io/streak-stats)
+"></a>   
 
