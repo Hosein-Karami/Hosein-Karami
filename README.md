@@ -9,11 +9,7 @@
          width=45" height="45">
   </a>
   <a href="https://spring.io/projects/spring-boot">
-         <img alt="SpringBoot" src="https://spring.io/projects/spring-boot"
-         width=45" height="45">
-  </a>
-  <a href="https://html.com/html5">
-         <img alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+         <img alt="SpringBoot" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"
          width=45" height="45">
   </a>
   <a href="https://www.mysql.com">
