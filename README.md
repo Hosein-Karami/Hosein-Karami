@@ -20,4 +20,8 @@
          <img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
          width=45" height="45">
   </a>      
+   <a href="https://www.linux.org">
+         <img alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
+         width=45" height="45">
+  </a>                                   
 </div>
