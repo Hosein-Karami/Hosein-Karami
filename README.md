@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 ## [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Hosein-Karami&count_private=true&theme=tokyonight&showicons=true)]()
 ## [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hosein-Karami&langs_count=5&theme=tokyonight)]()
 ### Languages and Tools :
