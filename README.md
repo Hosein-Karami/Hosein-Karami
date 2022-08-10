@@ -1,4 +1,3 @@
-٫
 ### Contact with me :
 <div id="Contact">
   <a href="https://www.linkedin.com/in/hosein-karami">
