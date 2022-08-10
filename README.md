@@ -4,7 +4,7 @@
          <img alt="Linkedin" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
          width=45" height="45">
   </a>
-</div>
+</div>                   
 ### Languages and Tools :
 <div id="Abilities">
   <a href="https://www.cprogramming.com">
