@@ -18,7 +18,7 @@
   <a href="https://www.oracle.com/java">
          <img alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"
          width=45" height="45">
-  </a>
+  </a> 
   <a href="https://spring.io/projects/spring-boot">
          <img alt="SpringBoot" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"
          width=45" height="45">
