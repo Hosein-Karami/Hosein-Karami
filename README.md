@@ -1,3 +1,10 @@
+### Contact with me :
+<div id="Contact">
+  <a href="https://www.linkedin.com/in/hosein-karami">
+         <img alt="Linkedin" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
+         width=45" height="45">
+  </a>
+</div>
 ### Languages and Tools :
 <div id="Abilities">
   <a href="https://www.cprogramming.com">
