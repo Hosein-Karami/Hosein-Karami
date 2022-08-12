@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosein-Karami&show_icons=true&theme=radical)
+
 ### Languages and Tools :
 <div id="Abilities">
   <a href="https://www.cprogramming.com">
