@@ -1,7 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosein-Karami&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hosein-Karami&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoein-Karami&show_icons=true)
 
 ### Languages and Tools :
 <div id="Abilities">
@@ -32,12 +31,10 @@
    <a href="https://www.linux.org">
          <img alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
          width=45" height="45">
-  </a>
-  </a>      
+   </a>      
    <a href="https://www.keycloak.org">
          <img alt="Keycloak" src="https://design.jboss.org/keycloak/logo/images/keycloak_icon_64px.svg"
          width=45" height="45">
-  </a>
   </a>      
   <a href="https://www.postman.com/">
          <img alt="Postman" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg"
