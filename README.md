@@ -9,9 +9,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hosein-Karami&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hosein-Karami&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=Hosein-Karami&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## ![](https://github-profile-trophy.vercel.app/?username=Hosein-Karami&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
